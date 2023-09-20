@@ -1,0 +1,30 @@
+.cardPai{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  background-color: #e4e4e0;
+  border: 5px solid #f1f1f1;
+    height: 680px;
+    width: 540px;
+    border-radius: 30px;
+    margin: 26px 0px 15px 20px;
+}
+.news img{
+    border-radius: 30px 30px 0px 0px;
+    height: 320px;
+    width: 520px;
+    margin: 10px 0px 0px 0px;
+}
+.news h2{
+   
+    
+    width: 520px;
+    font-size: 30px;
+    margin: 10px 0px 0px 0px;
+}
+.news p{
+    text-align: justify;
+    width: 520px;
+    font-size: 25px;
+    margin: 25px 0px 0px 0px;
+}

@@ -1,0 +1,10 @@
+.baseMenu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #031441;
+    height: 116px;
+    width: 120rem;
+    box-shadow: 1px 1px 8px 1px rgb(168, 170, 173);
+    
+}

@@ -1,0 +1,12 @@
+.publicidade{
+    height: 116px;
+    width: 120rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:  1px solid #5a5a61;
+}
+p{
+    font-size: 40px;
+color: brown;
+}
