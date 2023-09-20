@@ -14,7 +14,12 @@
     height: 320px;
     width: 520px;
     margin: 10px 0px 0px 0px;
+    transition: transform 5s;
 }
+.news img:hover{
+    transform:scale(0.9)
+}
+
 .news h2{
    
     
