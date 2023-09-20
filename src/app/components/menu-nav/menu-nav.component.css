@@ -1,10 +1,44 @@
 .baseMenu{
     display: flex;
-    justify-content: space-between;
+ justify-content: center;
     align-items: center;
-    background-color: #031441;
+    background-color: #0D1323;
     height: 116px;
     width: 120rem;
     box-shadow: 1px 1px 8px 1px rgb(168, 170, 173);
+
+}
+.baseMenu ul {
+   
+    display: flex;
+    color: aliceblue;
+    font-size: 23px;
+    gap:70px;
+    margin: 0px 130px 0px 0px;
+    list-style-type:none;
+   
+} 
+.menu_central{
+    display: flex;
+}
+.menu_central img{
+    height: 40px ;
+    width:  40px;
+    margin: 10px 0px 0px 0px;
+}
+
+
+.baseMenu h1{
+    background-image: linear-gradient(to right, #05d6df, #f506fe);
+    color: transparent;
+    -webkit-background-clip: text; /* Para navegadores baseados em Webkit (como o Chrome e o Safari) */
+    background-clip: text;
+
+    font-size: 65px;
+}
+.redes{
+    height:90px;
+    width: 400px;
+    margin: 0px 130px 0px 0px;
     
 }
